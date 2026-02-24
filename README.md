@@ -7,9 +7,9 @@
 * (3)Fincons S.p.A., Vimercate, Italy 
 * (4)European Commission, Joint Research Centre, Ispra, Italy
 
-
+---------------------------------------------------------
+## DATASET DETAILS
 * Data Source: Public Sector Tech Watch
-
 * Data Extraction: July 2025
 * Number of Blockchain cases: 306
   
