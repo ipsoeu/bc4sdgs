@@ -1,6 +1,6 @@
 # Blockchain Applications for Sustainable Development in the EU Public Sector: Insights from AI-Based SDG Mapping
 
-### A. Paula Rodriguez Müller(1), Jaume Martin Bosch(2), Marco Combetto(3), Luca Tangi(4 )
+### A. Paula Rodriguez Müller(1), Jaume Martin Bosch(2), Marco Combetto(3), Luca Tangi(4)
 
 * (1)European Commission, Joint Research Centre, Seville, Spain 
 * (2)Engineering International Belgium S.A., Brussels, Belgium 
@@ -8,11 +8,12 @@
 * (4)European Commission, Joint Research Centre, Ispra, Italy
 
 ---------------------------------------------------------
-## DATASET DETAILS
-* Data Source: Public Sector Tech Watch
-* Data Extraction: July 2025
-* Number of Blockchain cases: 306
-  
+## Dataset Details
+- **Data source:** [Public Sector Tech Watch](https://interoperable-europe.ec.europa.eu/collection/public-sector-tech-watch)
+- **Data extraction date:** July 2025
+- **Number of blockchain cases:** 306
+
+
 | Column Name                          | Description                                                         |
 | ------------------------------------ | ------------------------------------------------------------------- |
 | `SDG_[n]_vote`                       | Vote assigned by the automatic keywords match                       |
