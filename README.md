@@ -4,7 +4,7 @@
 
 * (1)European Commission, Joint Research Centre, Seville, Spain 
 * (2)Engineering International Belgium S.A., Brussels, Belgium 
-* (3)Fincons S.p.A., Vimercate, Italy 
+* (3)Freelance, Trento, Italy 
 * (4)European Commission, Joint Research Centre, Ispra, Italy
 
 ---------------------------------------------------------
