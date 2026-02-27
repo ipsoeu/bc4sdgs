@@ -4,15 +4,21 @@
 
 * (1)European Commission, Joint Research Centre, Seville, Spain 
 * (2)Engineering International Belgium S.A., Brussels, Belgium 
-* (3)Freelance, Trento, Italy 
+* (3)Fincons S.p.A., Vimercate, Italy
 * (4)European Commission, Joint Research Centre, Ispra, Italy
 
 ---------------------------------------------------------
+BLOCKCHAIN USECASE DATASET
+---------------------------------------------------------
 ## Dataset Details
+- **Dataset Name:** bc4sdgs_202507_merged_upd_pub.csv
+- **Dataset Description:** list of selected blockchain usecases used in the research. 
 - **Data source:** [Public Sector Tech Watch](https://interoperable-europe.ec.europa.eu/collection/public-sector-tech-watch)
 - **Data extraction date:** July 2025
 - **Number of blockchain cases:** 306
 
+The dataset schema is the PSTW schema documented here https://publications.jrc.ec.europa.eu/repository/handle/JRC137409
+The dataset has been enriched with additional columns for each SDG that are the following: 
 
 | Column Name                          | Description                                                         |
 | ------------------------------------ | ------------------------------------------------------------------- |
@@ -24,4 +30,12 @@
 | `SDG_[n]_comment__4o_t01_202507`     | Text comment to the vote assigned by gpt-4o LLM                     |
 | `SDG_[n]_comment__llama3_t01_202507` | Text comment to the vote assigned by Llama 3 LLM                    |
 
+
+---------------------------------------------------------
+SDGS DATASET
+---------------------------------------------------------
+## Dataset Details
+- **Dataset Name:** sdgs.csv
+- **Dataset Description:** list of SDGs names, definitions and keywords
+- **Data source:** [United Nations SDGs](https://sdgs.un.org/goals)
 
